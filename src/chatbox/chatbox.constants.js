@@ -1,0 +1,3 @@
+export const SEND_MESSAGE = 'SEND_MESSAGE';
+export const JOIN_CHANNEL = 'JOIN_CHANNEL';
+export const REC_CHANNEL_MESSAGE = 'REC_CHANNEL_MESSAGE';
